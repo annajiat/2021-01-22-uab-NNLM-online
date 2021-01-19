@@ -13,7 +13,7 @@ humandate: "Jan 22, Feb 26, Mar 26, Apr 23, 2021"    # human-readable dates for 
 humantime: "8:30 am - 12:30 pm CST"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 20210122      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 20210423        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Cody Hennesy", "Annajiat Alim Rasel", "Camilla Bressan", "Mary Ann Warner"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Cody Hennesy", "Annajiat Alim Rasel", "Camilla Bressan", "Mary Ann Warner", "Scott Peterson"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Kay H. Smith", "Dorothy Carol Ogdon"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["khogan@uab.edu","annajiat@gmail.com","dogdon@uab.edu","chennesy@umn.edu","cbressan@turing.ac.uk","mwarner@mvls.info"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2021-01-22-uab-NNLM-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
